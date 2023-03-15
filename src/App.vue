@@ -1,7 +1,7 @@
 <script setup></script>
 
 <template>
-  <p id="title">the same movies project in different frameworks</p>
+  <p id="title">The same movies project in different frameworks.</p>
   <div class="container">
     <div class="link">
       <a
